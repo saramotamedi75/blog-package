@@ -1,0 +1,19 @@
+{
+    "name": "sara/blog",
+    "description": "a laravel blog",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saramotamedi",
+            "email": "sara.motamedi@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sara\\Blog\\": "src/"
+        }
+    }
+}
